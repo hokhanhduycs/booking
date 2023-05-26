@@ -1,9 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const Hotel = () => {
-  return (
-    <div className='hotel'>Hotel</div>
-  )
-}
+   return <div>Hotel</div>;
+};
 
-export default Hotel
+export default Hotel;
